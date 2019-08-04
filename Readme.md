@@ -29,18 +29,21 @@ $ make umbrellas
 ### By Name
 <!-- PROJECTS_LIST -->
 - [Artris/algorithms](https://github.com/Artris/algorithms) - Algorithms and Data Structures in ReasonML <br/> ( 2018-09-05 / 48 commits / 33 stars )
+- [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> ( 2019-03-11 / 76 commits / 186 stars )
 <!-- /PROJECTS_LIST -->
 
 [⬆ Navigation](#navigation)
 
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
+- [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> (76 commits / 186 stars / 2019-03-11 )
 - [Artris/algorithms](https://github.com/Artris/algorithms) - Algorithms and Data Structures in ReasonML <br/> (48 commits / 33 stars / 2018-09-05 )
 <!-- /COMMITCOUNT_LIST -->
 [⬆ Navigation](#navigation)
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> ( 2019-03-11 / 76 commits / 186 stars )
 - [Artris/algorithms](https://github.com/Artris/algorithms) - Algorithms and Data Structures in ReasonML <br/> ( 2018-09-05 / 48 commits / 33 stars )
 <!-- /ACTIVITY_LIST -->
 
@@ -48,6 +51,7 @@ $ make umbrellas
 
 ### By Popularity
 <!-- POPULARITY_LIST -->
+- [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> (186 stars / 2019-03-11 / 76 commits )
 - [Artris/algorithms](https://github.com/Artris/algorithms) - Algorithms and Data Structures in ReasonML <br/> (33 stars / 2018-09-05 / 48 commits )
 <!-- /POPULARITY_LIST -->
 
