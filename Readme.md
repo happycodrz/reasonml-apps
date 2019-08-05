@@ -24,14 +24,13 @@ $ make update
 ### By Name
 <!-- PROJECTS_LIST -->
 - [Artris/algorithms](https://github.com/Artris/algorithms) - Algorithms and Data Structures in ReasonML <br/> ( 2018-09-05 / 48 commits / 33 stars )
-- [cristianoc/genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType. <br/> ( 2019-08-05 / 1505 commits / 428 stars )
+- [cristianoc/genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType. <br/> ( 2019-08-05 / 1506 commits / 428 stars )
 - [jthegedus/reasonml](https://github.com/jthegedus/reasonml) - Exercism exercises in ReasonML. <br/> ( 2018-01-21 / 18 commits / 9 stars )
 - [minima-app/bs-log](https://github.com/minima-app/bs-log) - Logging implementation for ReasonML/BuckleScript <br/> ( 2019-06-25 / 50 commits / 55 stars )
 - [ostera/httpkit](https://github.com/ostera/httpkit) - ⚡️ High-level, High-performance HTTP(S) Clients/Servers in Reason/OCaml <br/> ( 2019-07-02 / 126 commits / 182 stars )
 - [ostera/reason-design-patterns](https://github.com/ostera/reason-design-patterns) - 🗺 An unofficial collection of "design patterns" for Reason and OCaml <br/> ( 2019-02-05 / 40 commits / 243 stars )
 - [parkerziegler/reason-basics](https://github.com/parkerziegler/reason-basics) - Notes and samples for understanding the basics of ReasonML. <br/> ( 2019-02-04 / 16 commits / 60 stars )
 - [phillipj/gitlab-search](https://github.com/phillipj/gitlab-search) - Command line tool to search for contents in GitLab repositories <br/> ( 2019-08-01 / 39 commits / 13 stars )
-- [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> ( 2019-03-11 / 76 commits / 186 stars )
 - [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> ( 2019-03-11 / 76 commits / 186 stars )
 - [shrynx/99.re](https://github.com/shrynx/99.re) - 99 problems with reason(able) solutions. <br/> ( 2017-11-18 / 1 commits / 82 stars )
 - [shrynx/awesome-ppx-reasonml](https://github.com/shrynx/awesome-ppx-reasonml) - curated list of reasonml PPX rewriter <br/> ( 2019-01-09 / 1 commits / 13 stars )
@@ -41,9 +40,8 @@ $ make update
 
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
-- [cristianoc/genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType. <br/> (1505 commits / 428 stars / 2019-08-05 )
+- [cristianoc/genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType. <br/> (1506 commits / 428 stars / 2019-08-05 )
 - [ostera/httpkit](https://github.com/ostera/httpkit) - ⚡️ High-level, High-performance HTTP(S) Clients/Servers in Reason/OCaml <br/> (126 commits / 182 stars / 2019-07-02 )
-- [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> (76 commits / 186 stars / 2019-03-11 )
 - [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> (76 commits / 186 stars / 2019-03-11 )
 - [minima-app/bs-log](https://github.com/minima-app/bs-log) - Logging implementation for ReasonML/BuckleScript <br/> (50 commits / 55 stars / 2019-06-25 )
 - [Artris/algorithms](https://github.com/Artris/algorithms) - Algorithms and Data Structures in ReasonML <br/> (48 commits / 33 stars / 2018-09-05 )
@@ -58,11 +56,10 @@ $ make update
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
-- [cristianoc/genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType. <br/> ( 2019-08-05 / 1505 commits / 428 stars )
+- [cristianoc/genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType. <br/> ( 2019-08-05 / 1506 commits / 428 stars )
 - [phillipj/gitlab-search](https://github.com/phillipj/gitlab-search) - Command line tool to search for contents in GitLab repositories <br/> ( 2019-08-01 / 39 commits / 13 stars )
 - [ostera/httpkit](https://github.com/ostera/httpkit) - ⚡️ High-level, High-performance HTTP(S) Clients/Servers in Reason/OCaml <br/> ( 2019-07-02 / 126 commits / 182 stars )
 - [minima-app/bs-log](https://github.com/minima-app/bs-log) - Logging implementation for ReasonML/BuckleScript <br/> ( 2019-06-25 / 50 commits / 55 stars )
-- [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> ( 2019-03-11 / 76 commits / 186 stars )
 - [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> ( 2019-03-11 / 76 commits / 186 stars )
 - [ostera/reason-design-patterns](https://github.com/ostera/reason-design-patterns) - 🗺 An unofficial collection of "design patterns" for Reason and OCaml <br/> ( 2019-02-05 / 40 commits / 243 stars )
 - [parkerziegler/reason-basics](https://github.com/parkerziegler/reason-basics) - Notes and samples for understanding the basics of ReasonML. <br/> ( 2019-02-04 / 16 commits / 60 stars )
@@ -76,9 +73,8 @@ $ make update
 
 ### By Popularity
 <!-- POPULARITY_LIST -->
-- [cristianoc/genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType. <br/> (428 stars / 2019-08-05 / 1505 commits )
+- [cristianoc/genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType. <br/> (428 stars / 2019-08-05 / 1506 commits )
 - [ostera/reason-design-patterns](https://github.com/ostera/reason-design-patterns) - 🗺 An unofficial collection of "design patterns" for Reason and OCaml <br/> (243 stars / 2019-02-05 / 40 commits )
-- [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> (186 stars / 2019-03-11 / 76 commits )
 - [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> (186 stars / 2019-03-11 / 76 commits )
 - [ostera/httpkit](https://github.com/ostera/httpkit) - ⚡️ High-level, High-performance HTTP(S) Clients/Servers in Reason/OCaml <br/> (182 stars / 2019-07-02 / 126 commits )
 - [shrynx/99.re](https://github.com/shrynx/99.re) - 99 problems with reason(able) solutions. <br/> (82 stars / 2017-11-18 / 1 commits )

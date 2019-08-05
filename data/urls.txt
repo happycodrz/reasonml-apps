@@ -6,7 +6,6 @@ https://github.com/ostera/httpkit [] ⚡️ High-level, High-performance HTTP(S)
 https://github.com/ostera/reason-design-patterns [] 🗺 An unofficial collection of "design patterns" for Reason and OCaml
 https://github.com/parkerziegler/reason-basics [] Notes and samples for understanding the basics of ReasonML.
 https://github.com/phillipj/gitlab-search [] Command line tool to search for contents in GitLab repositories
-https://github.com/protoship/learn-reasonml-workshop []
 https://github.com/protoship/learn-reasonml-workshop [] Learn ReasonML with 24 exercises. No prior functional programming knowledge required.
 https://github.com/shrynx/99.re [] 99 problems with reason(able) solutions.
 https://github.com/shrynx/awesome-ppx-reasonml [] curated list of reasonml PPX rewriter
