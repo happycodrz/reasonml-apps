@@ -5,6 +5,7 @@ https://github.com/brainpower-org/reason-from-the-very-beginning [] ☯Solutions
 https://github.com/cristianoc/genType [] Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
 https://github.com/exercism/ocaml [] Exercism exercises in OCaml. http://exercism.io/languages/ocaml
 https://github.com/janestreet/typerep [] Runtime types for OCaml (beta version)
+https://github.com/johnwhitington/more-ocaml-exercises [] Examples and Exercises for the book "More OCaml"
 https://github.com/jonlaing/rationale [] Ramda inspired library of helper functions for ReasonML
 https://github.com/jthegedus/reasonml [] Exercism exercises in ReasonML.
 https://github.com/minima-app/bs-log [] Logging implementation for ReasonML/BuckleScript
