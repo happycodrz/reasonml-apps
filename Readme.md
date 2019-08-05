@@ -94,3 +94,4 @@ $ make update
 - https://2ality.com/archive.html#tags=reasonml
 - https://til.hashrocket.com/reasonml
 - https://medium.com/@dangggdennis/15-tips-for-learning-reason-reasonml-bb844ad1be2b
+- https://de.slideshare.net/rizafahmi/introduction-to-reasonml
