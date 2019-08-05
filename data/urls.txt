@@ -5,6 +5,7 @@ https://github.com/cristianoc/genType [] Auto generation of idiomatic bindings b
 https://github.com/jonlaing/rationale [] Ramda inspired library of helper functions for ReasonML
 https://github.com/jthegedus/reasonml [] Exercism exercises in ReasonML.
 https://github.com/minima-app/bs-log [] Logging implementation for ReasonML/BuckleScript
+https://github.com/mjambon/atd [] Static types for JSON APIs
 https://github.com/ostera/httpkit [] ⚡️ High-level, High-performance HTTP(S) Clients/Servers in Reason/OCaml
 https://github.com/ostera/reason-design-patterns [] 🗺 An unofficial collection of "design patterns" for Reason and OCaml
 https://github.com/parkerziegler/reason-basics [] Notes and samples for understanding the basics of ReasonML.

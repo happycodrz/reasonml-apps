@@ -30,6 +30,7 @@ $ make update
 - [jonlaing/rationale](https://github.com/jonlaing/rationale) - Ramda inspired library of helper functions for ReasonML <br/> ( 2018-12-07 / 80 commits / 223 stars )
 - [jthegedus/reasonml](https://github.com/jthegedus/reasonml) - Exercism exercises in ReasonML. <br/> ( 2018-01-21 / 18 commits / 9 stars )
 - [minima-app/bs-log](https://github.com/minima-app/bs-log) - Logging implementation for ReasonML/BuckleScript <br/> ( 2019-06-25 / 50 commits / 55 stars )
+- [mjambon/atd](https://github.com/mjambon/atd) - Static types for JSON APIs <br/> ( 2019-03-18 / 911 commits / 140 stars )
 - [ostera/httpkit](https://github.com/ostera/httpkit) - ⚡️ High-level, High-performance HTTP(S) Clients/Servers in Reason/OCaml <br/> ( 2019-07-02 / 126 commits / 183 stars )
 - [ostera/reason-design-patterns](https://github.com/ostera/reason-design-patterns) - 🗺 An unofficial collection of "design patterns" for Reason and OCaml <br/> ( 2019-02-05 / 40 commits / 243 stars )
 - [parkerziegler/reason-basics](https://github.com/parkerziegler/reason-basics) - Notes and samples for understanding the basics of ReasonML. <br/> ( 2019-02-04 / 16 commits / 60 stars )
@@ -45,6 +46,7 @@ $ make update
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
 - [cristianoc/genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType. <br/> (1507 commits / 428 stars / 2019-08-05 )
+- [mjambon/atd](https://github.com/mjambon/atd) - Static types for JSON APIs <br/> (911 commits / 140 stars / 2019-03-18 )
 - [reazen/relude](https://github.com/reazen/relude) - FP-inspired prelude for ReasonML projects <br/> (328 commits / 69 stars / 2019-08-05 )
 - [ostera/httpkit](https://github.com/ostera/httpkit) - ⚡️ High-level, High-performance HTTP(S) Clients/Servers in Reason/OCaml <br/> (126 commits / 183 stars / 2019-07-02 )
 - [brainpower-org/ocaml-from-the-very-beginning](https://github.com/brainpower-org/ocaml-from-the-very-beginning) - 🐫 Solutions for questions in OCaml - From the very beginning <br/> (81 commits / 5 stars / 2019-06-26 )
@@ -71,6 +73,7 @@ $ make update
 - [brainpower-org/ocaml-from-the-very-beginning](https://github.com/brainpower-org/ocaml-from-the-very-beginning) - 🐫 Solutions for questions in OCaml - From the very beginning <br/> ( 2019-06-26 / 81 commits / 5 stars )
 - [minima-app/bs-log](https://github.com/minima-app/bs-log) - Logging implementation for ReasonML/BuckleScript <br/> ( 2019-06-25 / 50 commits / 55 stars )
 - [brainpower-org/reason-from-the-very-beginning](https://github.com/brainpower-org/reason-from-the-very-beginning) - ☯Solutions for questions in Ocaml - From the very beginning implemented in ReasonML <br/> ( 2019-04-09 / 42 commits / 4 stars )
+- [mjambon/atd](https://github.com/mjambon/atd) - Static types for JSON APIs <br/> ( 2019-03-18 / 911 commits / 140 stars )
 - [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> ( 2019-03-11 / 76 commits / 186 stars )
 - [ostera/reason-design-patterns](https://github.com/ostera/reason-design-patterns) - 🗺 An unofficial collection of "design patterns" for Reason and OCaml <br/> ( 2019-02-05 / 40 commits / 243 stars )
 - [parkerziegler/reason-basics](https://github.com/parkerziegler/reason-basics) - Notes and samples for understanding the basics of ReasonML. <br/> ( 2019-02-04 / 16 commits / 60 stars )
@@ -90,6 +93,7 @@ $ make update
 - [jonlaing/rationale](https://github.com/jonlaing/rationale) - Ramda inspired library of helper functions for ReasonML <br/> (223 stars / 2018-12-07 / 80 commits )
 - [protoship/learn-reasonml-workshop](https://github.com/protoship/learn-reasonml-workshop) - Learn ReasonML with 24 exercises. No prior functional programming knowledge required. <br/> (186 stars / 2019-03-11 / 76 commits )
 - [ostera/httpkit](https://github.com/ostera/httpkit) - ⚡️ High-level, High-performance HTTP(S) Clients/Servers in Reason/OCaml <br/> (183 stars / 2019-07-02 / 126 commits )
+- [mjambon/atd](https://github.com/mjambon/atd) - Static types for JSON APIs <br/> (140 stars / 2019-03-18 / 911 commits )
 - [shrynx/99.re](https://github.com/shrynx/99.re) - 99 problems with reason(able) solutions. <br/> (82 stars / 2017-11-18 / 1 commits )
 - [reazen/relude](https://github.com/reazen/relude) - FP-inspired prelude for ReasonML projects <br/> (69 stars / 2019-08-05 / 328 commits )
 - [parkerziegler/reason-basics](https://github.com/parkerziegler/reason-basics) - Notes and samples for understanding the basics of ReasonML. <br/> (60 stars / 2019-02-04 / 16 commits )
