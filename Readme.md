@@ -141,3 +141,7 @@ $ make update
 ## Videos
 - [ReasonML Programming - Full Course for Beginners - 2019/04 - 5h 30mins](https://www.youtube.com/watch?v=sjWsAYJF8BA&t=6109s)
 - [OCaml, REborn: fullstack applications with ReasonML – António Monteiro - 2018/09](https://www.youtube.com/watch?v=XLnWMfdbQEo)
+- [in.js 2019 06 Karol Falkiewicz - ReasonML for Dummies - 2019/07](https://www.youtube.com/watch?v=USV79TWGugo)
+- [introduction to ReasonML - 2018/11](https://www.youtube.com/watch?v=Ov4u6Z-dgiI)
+- ["Universal Reason" by Jacob Bass - 2017/10](https://www.youtube.com/watch?v=L0xz-ILKsLE)
+- https://www.youtube.com/watch?v=8GNUh1TYfo8&list=PLhXx9xj1ARCeztcOMw5H5UY5rpBAQzxWd
